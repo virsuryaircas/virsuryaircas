@@ -55,34 +55,11 @@
 
 ## 👋 Hand Made Tools
 
-<table>
-  <tr>   
-    <td align="center" style="padding: 10px;"><br>
-      <a href="https://github.com/virsuryaircas/localhostrun-ingress" target="_blank">
-        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/ing.png?raw=true" width="100" height="100" style="object-fit: cover;" alt="LocalhostRun Ingress">
-      </a>
-      <div style="font-size: 16px; font-weight: bold; margin-top: 5px;">LocalhostRun Ingress</div><br>
-    </td>
-    <td align="center" style="padding: 10px;"><br>
-      <a href="https://github.com/virsuryaircas/podpulse" target="_blank">
-        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png?raw=true" width="100" height="100" style="object-fit: cover;" alt="PodPulse">
-      </a>
-      <div style="font-size: 16px; font-weight: bold; margin-top: 5px;">PodPulse Status</div><br>
-    </td>
-    <td align="center" style="padding: 10px;"><br>
-      <a href="https://github.com/virsuryaircas/nodeport-controller" target="_blank">
-        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/crd.png?raw=true" width="100" height="100" style="object-fit: cover;" alt="NodePort Controller">
-      </a>
-      <div style="font-size: 16px; font-weight: bold; margin-top: 5px;">NodePort Controller</div><br>
-    </td>
-     <td align="center" style="padding: 10px;"><br>
-      <a href="https://github.com/virsuryaircas/nodeport-controller" target="_blank">
-        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/crd.png?raw=true" width="100" height="100" style="object-fit: cover;" alt="NodePort Controller">
-      </a>
-      <div style="font-size: 16px; font-weight: bold; margin-top: 5px;">NodePort Controller</div><br>
-    </td>
-  </tr>
-</table>
+| Icon | Name | Description |
+|------|------|-------------|
+| <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png" width="80" height="80"> | [PodPulse](https://github.com/virsuryaircas/podpulse) | Pod Status Checker |
+| <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/crd.png" width="80" height="80"> | [NodePort Controller](https://github.com/virsuryaircas/nodeport-controller) | K8s CRD |
+| <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/ing.png" width="80" height="80"> | [LocalhostRun Ingress](https://github.com/virsuryaircas/localhostrun-ingress) | Ingress for Localhost |
 
 
 ## ⛰️ Reach the Batcave
