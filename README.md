@@ -20,44 +20,26 @@
   </a>
 </div>
 
-### 🪪 Identity
+## 🪪 Bio
 
-| 🕵️‍♂️ Alias        | **The DevOps Knight**                            |
-|------------------|--------------------------------------------------|
-| 🧑‍💻 Real Name     | **[Your Name]** *(a mystery to some)*            |
-| 🌆 City          | **Gotham** *(or your actual location)*           |
-| 💼 Day Job       | **DevOps Engineer** *(5+ years of IT experience)* |
-| 🌙 Night Job     | **Guardian of Pipelines & Infrastructure**        |
-| 📜 Certifications| 🛡️ **CKA** & ☁️ **Azure Certified**               | 
+- 🔭 I’m currently building k8s tools
+- 🌱 I’m currently learning Azure
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with creating high level products
+- ❤️ I love to have tech talks
+- ⚡ Fun fact: When I use I'll become,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🪟 Windows as **Iron Man** — flashy, high-tech, and everyone knows him.  
+&nbsp;&nbsp;&nbsp;&nbsp;🐧 Linux as **Batman** — stealthy, powerful, and only the pros truly get him.
+
+## 🛠️ Utility Belt
+
+## 👋 Hand Made Tools
 
 ## 📫 Reach the Batcave
 
 🔦 Bat-Signals:
 
-<p>
-  <a href="https://www.linkedin.com/in/virsuryaircas/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/virsuryaircas/virsuryaircas/main/assets/linkedin.svg" alt="LinkedIn" width="20" height="20" style="margin-right: 10px;">
-    <span style="font-size: 20px; color: black;">LinkedIn: virsuryaircas</span>
-  </a>
-</p>
-
-<p>
-  <a href="https://virsuryaircas.hashnode.dev/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/virsuryaircas/virsuryaircas/main/assets/hashnode.svg" alt="Hashnode" width="20" height="20" style="margin-right: 10px;">
-    <span style="font-size: 20px; color: black;">Blog: virsuryaircas.hashnode.dev</span>
-  </a>
-</p>
-
-
 - 🔗 LinkedIn: [virsuryaircas](https://www.linkedin.com/in/virsuryaircas/) &nbsp;`// Bruce Wayne Prof. Identity`
 - 📝 Blog: [virsuryaircas.hashnode.dev](https://virsuryaircas.hashnode.dev/) &nbsp;`// DevOps Chronicles`
 
 ---
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
