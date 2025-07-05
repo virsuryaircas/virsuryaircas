@@ -20,15 +20,13 @@
   </a>
 </div>
 
-## 🪪 Bio
+## 🚀 Bio
 
-- 🔭 I’m currently building k8s tools
-- 🌱 I’m currently learning Azure
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with creating high level products
-- ❤️ I love to have tech talks
+- 🔭 Building K8s tools
+- 🌱 Learning Azure
+- ❤️ Love to have Tech Talks
 - ⚡ Fun fact: When I use I'll become,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🪟 Windows as **Iron Man** — flashy, high-tech, and everyone knows him.  
+&nbsp;&nbsp;&nbsp;&nbsp;⊞ Windows as **Iron Man** — flashy, high-tech, and everyone knows him.  
 &nbsp;&nbsp;&nbsp;&nbsp;🐧 Linux as **Batman** — stealthy, powerful, and only the pros truly get him.
 
 ## 🛠️ Utility Belt
