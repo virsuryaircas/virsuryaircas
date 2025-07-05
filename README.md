@@ -5,6 +5,9 @@
 > *$ alias batman="virsuryaircas""*
 
 ---
+## 🎓 Certified by the League of Tech
+
+<div align="left"> <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/cka-certified-kubernetes-administrator.svg" alt="CKA Badge" height="150px" width="150px" /> &nbsp;&nbsp;&nbsp; <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/microsoft-certified-fundamentals-badge.svg" alt="Azure Badge" height="150px" width="150px" /> </div>
 
 ### 🪪 Identity
 
