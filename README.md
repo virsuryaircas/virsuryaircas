@@ -55,24 +55,23 @@
 
 ## 👋 Hand Made Tools
 
-<table align="left">
+<table>
   <tr>
     <td align="center">
-      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/crd.png?raw=true" width="60" alt="CRD Icon"><br>
-      <strong>CRD</strong>
+      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/crd.png?raw=true" width="100" alt="CRD"><br>
+      <sub><strong>CRD</strong></sub>
     </td>
-    <td width="20"></td> <!-- spacing -->
     <td align="center">
-      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/ing.png?raw=true" width="60" alt="Ingress Icon"><br>
-      <strong>Ingress</strong>
+      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/ing.png?raw=true" width="100" alt="Ingress"><br>
+      <sub><strong>Ingress</strong></sub>
     </td>
-    <td width="20"></td> <!-- spacing -->
     <td align="center">
-      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png?raw=true" width="60" alt="PodPulse Icon"><br>
-      <strong>PodPulse</strong>
+      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png?raw=true" width="100" alt="PodPulse"><br>
+      <sub><strong>PodPulse</strong></sub>
     </td>
   </tr>
 </table>
+
 
 ## ⛰️ Reach the Batcave
 
