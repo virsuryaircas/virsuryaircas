@@ -59,24 +59,25 @@
   <tr>   
     <td align="center" style="padding: 10px;"><br>
       <a href="https://github.com/virsuryaircas/localhostrun-ingress" target="_blank">
-        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/ing.png?raw=true" width="100" alt="LocalhostRun Ingress">
+        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/ing.png?raw=true" width="100" height="100" style="object-fit: cover;" alt="LocalhostRun Ingress">
       </a>
       <div style="font-size: 16px; font-weight: bold; margin-top: 5px;">LocalhostRun Ingress</div><br>
     </td>
-     <td align="center" style="padding: 10px;"><br>
+    <td align="center" style="padding: 10px;"><br>
       <a href="https://github.com/virsuryaircas/podpulse" target="_blank">
-        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png?raw=true" width="100" alt="PodPulse">
+        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png?raw=true" width="100" height="100" style="object-fit: cover;" alt="PodPulse">
       </a>
-      <div style="font-size: 16px; font-weight: bold; margin-top: 5px;">PodPulse Status </div><br>
+      <div style="font-size: 16px; font-weight: bold; margin-top: 5px;">PodPulse Status</div><br>
     </td>
     <td align="center" style="padding: 10px;"><br>
       <a href="https://github.com/virsuryaircas/nodeport-controller" target="_blank">
-        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/crd.png?raw=true" width="100" alt="NodePort Controller">
+        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/crd.png?raw=true" width="100" height="100" style="object-fit: cover;" alt="NodePort Controller">
       </a>
       <div style="font-size: 16px; font-weight: bold; margin-top: 5px;">NodePort Controller</div><br>
     </td>
   </tr>
 </table>
+
 
 ## ⛰️ Reach the Batcave
 
