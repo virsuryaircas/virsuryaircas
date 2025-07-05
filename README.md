@@ -57,26 +57,27 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 10px;"><br>
       <a href="https://github.com/virsuryaircas/podpulse" target="_blank">
         <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png?raw=true" width="100" alt="PodPulse">
-      </a><br>
-      <sub><strong>PodPulse Status Checker</strong></sub>
+      </a>
+      <h4><strong>PodPulse Status Checker</strong></h4>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 10px;"><br>
       <a href="https://github.com/virsuryaircas/localhostrun-ingress" target="_blank">
         <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/ing.png?raw=true" width="100" alt="LocalhostRun Ingress">
-      </a><br>
-      <sub><strong>LocalhostRun Ingress</strong></sub>
+      </a>
+      <h4><strong>LocalhostRun Ingress</strong></h4>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 10px;"><br>
       <a href="https://github.com/virsuryaircas/nodeport-controller" target="_blank">
         <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/crd.png?raw=true" width="100" alt="NodePort Controller">
-      </a><br>
-      <sub><strong>NodePort Controller</strong></sub>
-    </td> 
+      </a>
+      <h4><strong>NodePort Controller</strong></h4>
+    </td>
   </tr>
 </table>
+
 
 ## ⛰️ Reach the Batcave
 
