@@ -61,7 +61,7 @@
       <a href="https://github.com/virsuryaircas/podpulse" target="_blank">
         <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png?raw=true" width="100" alt="PodPulse">
       </a><br>
-      <sub><strong>PodPulse PP</strong></sub>
+      <sub><strong>PodPulse Status Checker</strong></sub>
     </td>
     <td align="center">
       <a href="https://github.com/virsuryaircas/localhostrun-ingress" target="_blank">
