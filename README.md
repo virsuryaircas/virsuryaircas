@@ -25,7 +25,7 @@
 - 🔭 Building K8s tools
 - 🌱 Learning Azure
 - ❤️ Love to have Tech Talks
-- ⚡ Fun fact: When I use I'll become,<br>
+- 💡 Fun fact: When I use I'll become,<br>
 ⊞ Windows as **Iron Man** — flashy, high-tech, and everyone knows him.  
 🐧 Linux as **Batman** — stealthy, powerful, and only the pros truly get him.
 
