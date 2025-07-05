@@ -55,9 +55,24 @@
 
 ## 👋 Hand Made Tools
 
-[![PodPulse](https://github-readme-stats.vercel.app/api/pin/?username=virsuryaircas&repo=podpulse&theme=github_dark)](https://github.com/virsuryaircas/podpulse)
-[![nodeport-controller](https://github-readme-stats.vercel.app/api/pin/?username=virsuryaircas&repo=nodeport-controller&theme=github_dark)](https://github.com/virsuryaircas/nodeport-controller)
-[![localhostrun-ingress](https://github-readme-stats.vercel.app/api/pin/?username=virsuryaircas&repo=localhostrun-ingress&theme=github_dark)](https://github.com/virsuryaircas/localhostrun-ingress)
+<table align="left">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/crd.png?raw=true" width="60" alt="CRD Icon"><br>
+      <strong>CRD</strong>
+    </td>
+    <td width="20"></td> <!-- spacing -->
+    <td align="center">
+      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/ing.png?raw=true" width="60" alt="Ingress Icon"><br>
+      <strong>Ingress</strong>
+    </td>
+    <td width="20"></td> <!-- spacing -->
+    <td align="center">
+      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png?raw=true" width="60" alt="PodPulse Icon"><br>
+      <strong>PodPulse</strong>
+    </td>
+  </tr>
+</table>
 
 ## ⛰️ Reach the Batcave
 
@@ -66,4 +81,3 @@
 - 🔗 LinkedIn: [virsuryaircas](https://www.linkedin.com/in/virsuryaircas/) &nbsp;`// Bruce Wayne Prof. Identity`
 - 📝 Blog: [virsuryaircas.hashnode.dev](https://virsuryaircas.hashnode.dev/) &nbsp;`// DevOps Chronicles`
 
----
