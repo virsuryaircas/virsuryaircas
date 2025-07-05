@@ -61,7 +61,7 @@
       <a href="https://github.com/virsuryaircas/podpulse" target="_blank">
         <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png?raw=true" width="100" alt="PodPulse">
       </a>
-      <div style="font-size: 16px; font-weight: bold; margin-top: 5px;">PodPulse Status Checker</div><br>
+      <div style="font-size: 16px; font-weight: bold; margin-top: 5px;">PodPulse Status </div><br>
     </td>
     <td align="center" style="padding: 10px;"><br>
       <a href="https://github.com/virsuryaircas/localhostrun-ingress" target="_blank">
