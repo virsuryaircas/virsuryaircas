@@ -57,6 +57,10 @@
 
 ## 👋 Hand Made Tools
 
+[![PodPulse](https://github-readme-stats.vercel.app/api/pin/?username=virsuryaircas&repo=podpulse&theme=github_dark)](https://github.com/virsuryaircas/podpulse)
+[![nodeport-controller](https://github-readme-stats.vercel.app/api/pin/?username=virsuryaircas&repo=nodeport-controller&theme=github_dark)](https://github.com/virsuryaircas/nodeport-controller)
+[![localhostrun-ingress](https://github-readme-stats.vercel.app/api/pin/?username=virsuryaircas&repo=localhostrun-ingress&theme=github_dark)](https://github.com/virsuryaircas/localhostrun-ingress)
+
 ## 📫 Reach the Batcave
 
 🔦 Bat-Signals:
