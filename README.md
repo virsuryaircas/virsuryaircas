@@ -58,20 +58,25 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/crd.png?raw=true" width="100" alt="CRD"><br>
-      <sub><strong>CRD</strong></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/ing.png?raw=true" width="100" alt="Ingress"><br>
-      <sub><strong>Ingress</strong></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png?raw=true" width="100" alt="PodPulse"><br>
+      <a href="https://github.com/virsuryaircas/podpulse" target="_blank">
+        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/podpulse.png?raw=true" width="100" alt="PodPulse">
+      </a><br>
       <sub><strong>PodPulse</strong></sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/virsuryaircas/localhostrun-ingress" target="_blank">
+        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/ing.png?raw=true" width="100" alt="LocalhostRun Ingress">
+      </a><br>
+      <sub><strong>LocalhostRun Ingress</strong></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/virsuryaircas/nodeport-controller" target="_blank">
+        <img src="https://github.com/virsuryaircas/virsuryaircas/blob/main/assets/crd.png?raw=true" width="100" alt="NodePort Controller">
+      </a><br>
+      <sub><strong>NodePort Controller</strong></sub>
+    </td> 
   </tr>
 </table>
-
 
 ## ⛰️ Reach the Batcave
 
