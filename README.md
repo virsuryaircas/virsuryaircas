@@ -66,5 +66,5 @@
 
 🔦 Bat-Signals:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" alt="LinkedIn"> LinkedIn: [virsuryaircas](https://www.linkedin.com/in/virsuryaircas/) &nbsp;`// Bruce Wayne Prof. Identity`<br>
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" width="16" height="16" alt="Hashnode"> Blog: [virsuryaircas.hashnode.dev](https://virsuryaircas.hashnode.dev/) &nbsp;`// DevOps Chronicles`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" alt="LinkedIn"> Connect: [virsuryaircas](https://www.linkedin.com/in/virsuryaircas/) &nbsp;<br>
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" width="16" height="16" alt="Hashnode"> Blog: [virsuryaircas.hashnode.dev](https://virsuryaircas.hashnode.dev/) 
